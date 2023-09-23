@@ -2,4 +2,6 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=gibiee&hide=prs,issues,contribs&show_icons=true&theme=codeSTACKr)
 
-![stats](https://github-readme-stats.vercel.app/api?username=gibiee&hide=prs,issues,contribs&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=gibiee&hide=prs,issues,contribs&show_icons=true&theme=shadow_red)
+
+![stats](https://github-readme-stats.vercel.app/api?username=gibiee&hide=prs,issues,contribs&show_icons=true&theme=shadow_red&bg_color=FFFFFFFF)
