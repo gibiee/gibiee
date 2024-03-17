@@ -2,9 +2,3 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=gibiee&show_icons=true&bg_color=0,4584b6,ffde57&title_color=ffffff&text_color=646464&icon_color=646464&ring_color=EE4C2C&hide_border=true&border_radius=10)
 <!-- &hide=prs,issues,contribs -->
-
-<br/>
-
-I contributed to ...
-- [gradio-app/gradio](https://github.com/gradio-app/gradio)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
