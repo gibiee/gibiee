@@ -5,4 +5,5 @@
 
 
 ### 🎮 Toy Project Demo
-- [pokemon-generator](https://github.com/gibiee/pokemon-generator) : Make your own Pokémon! <a href='https://huggingface.co/spaces/gibiee/Pokemon-Generator'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'/></a>
+- [Pokémon Generator](https://github.com/gibiee/pokemon-generator) : Make your own Pokémon! <a href='https://huggingface.co/spaces/gibiee/Pokemon-Generator'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'/></a>
+- [CatifyMe](https://github.com/gibiee/CatifyMe) : If you were reborn as a cat (comming soon...)
